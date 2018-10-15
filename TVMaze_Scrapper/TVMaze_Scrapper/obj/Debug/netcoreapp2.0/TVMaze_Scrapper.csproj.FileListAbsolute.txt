@@ -1,0 +1,11 @@
+c:\users\user\source\repos\TVMaze_Scrapper\TVMaze_Scrapper\bin\Debug\netcoreapp2.0\TVMaze_Scrapper.deps.json
+c:\users\user\source\repos\TVMaze_Scrapper\TVMaze_Scrapper\bin\Debug\netcoreapp2.0\TVMaze_Scrapper.runtimeconfig.json
+c:\users\user\source\repos\TVMaze_Scrapper\TVMaze_Scrapper\bin\Debug\netcoreapp2.0\TVMaze_Scrapper.runtimeconfig.dev.json
+c:\users\user\source\repos\TVMaze_Scrapper\TVMaze_Scrapper\bin\Debug\netcoreapp2.0\TVMaze_Scrapper.dll
+c:\users\user\source\repos\TVMaze_Scrapper\TVMaze_Scrapper\obj\Debug\netcoreapp2.0\TVMaze_Scrapper.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\TVMaze_Scrapper\TVMaze_Scrapper\obj\Debug\netcoreapp2.0\TVMaze_Scrapper.AssemblyInfoInputs.cache
+c:\users\user\source\repos\TVMaze_Scrapper\TVMaze_Scrapper\obj\Debug\netcoreapp2.0\TVMaze_Scrapper.AssemblyInfo.cs
+c:\users\user\source\repos\TVMaze_Scrapper\TVMaze_Scrapper\bin\Debug\netcoreapp2.0\TVMaze_Scrapper.pdb
+c:\users\user\source\repos\TVMaze_Scrapper\TVMaze_Scrapper\obj\Debug\netcoreapp2.0\TVMaze_Scrapper.dll
+c:\users\user\source\repos\TVMaze_Scrapper\TVMaze_Scrapper\obj\Debug\netcoreapp2.0\TVMaze_Scrapper.pdb
+c:\users\user\source\repos\TVMaze_Scrapper\TVMaze_Scrapper\obj\Debug\netcoreapp2.0\TVMaze_Scrapper.csprojResolveAssemblyReference.cache
