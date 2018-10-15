@@ -18,6 +18,8 @@ We want the REST API to satisfy the following business requirements.
 2. The list of the cast must be ordered by birthday descending.
 The REST API should provide a JSON response when a call to a HTTP endpoint is made (it's up to you what URI).
 Example response:
+
+```
 [
   {
     "id": 1,
@@ -46,4 +48,7 @@ Example response:
         }
     ]
   }
+  
 ]
+
+```
