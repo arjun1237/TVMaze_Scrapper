@@ -6,10 +6,15 @@ TvMaze Scraper
 Time: 3 hours
 Background
 For a new metadata ingester we need a service that provides the cast of all the tv shows in the TVMaze database, so we can enrich our metadata system with this information. The TVMaze database provides a public REST API that you can query for this data.
+```
 http://www.tvmaze.com/api
+```
 This API requires no authentication but it is rate limited, so keep that in mind.
+
 Assignment
+
 We want you to create an application that:
+
 1. scrapes the TVMaze API for show and cast information;
 2. persists the data in storage;
 3. provides the scraped data using a REST API.
