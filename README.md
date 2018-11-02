@@ -1,4 +1,16 @@
 # TVMaze_Scrapper
+
+Update :  
+The feedback I received from the RTL company(Things that needs fixing) :
+```
+- Only one service in DI
+- Use of static classes
+- Thread.Sleep
+- No HttpClientFactory used but new HttpClient
+- Only one project
+- Wrong implementation of rate limit
+```
+
 RTL - Backend Developer Technical Test - 
 
 
